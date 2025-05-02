@@ -1,5 +1,16 @@
-## Hi there 👋
+## Hi there I'm Haekal👋
 
+🎓 Accounting Graduate with a passion for Information Systems, Data, and Technology.
+
+🔍 Currently exploring:
+- Python for data analysis and automation
+- ERP systems and business process mapping
+- Git, Docker, and DevOps basics
+
+🛠 Tools I use:
+`Python` `Pandas` `SQL` `Jupyter Notebook` `VS Code` `Linux` `Git`
+
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/haekalnurafrianto/) • [Email](h.n.afrianto@gmail.com)
 <!--
 **Haekalafrianto/haekalafrianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
