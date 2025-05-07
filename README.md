@@ -3,8 +3,8 @@
 🎓 Accounting Graduate with a passion for Information Systems, Data, and Technology.
 
 🔍 Currently exploring:
-- Python for data analysis and automation
 - ERP systems and business process mapping
+- Python for data analysis and automation
 - Git, Docker, and DevOps basics
 
 🛠 Tools I use:
