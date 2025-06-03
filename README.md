@@ -5,7 +5,7 @@
 🔍 Currently exploring:
 - ERP systems and business process mapping
 - Python for data analysis and automation
-- Git, Docker, and DevOps basics
+- Git and Docker
 
 🛠 Tools I use:
 `Python` `Pandas` `SQL` `Jupyter Notebook` `VS Code` `Linux` `Git`
